@@ -16,6 +16,7 @@
 - Alvaro Lucas
 - [AlbertHoxha](https://github.com/alberthoxha)
 - Johnny
+- Huan Le
 - [KasimKagnicioglu](https://github.com/M-KASIM42)
 - [ZlatislavZ](https://github.com/ZlatislavZ)
 - [Jason Gratiot](https://github.com/jason-gratiot)
